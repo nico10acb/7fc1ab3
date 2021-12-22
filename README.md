@@ -20,7 +20,7 @@
 <p align="center">
     Makes it easy and fun to use WhatsApp. It is also the first Sinhala user bot for WhatsApp.
     <br>
-        <a href="https://chat.whatsapp.com/BzQiMPrabddJ4RfulG5888">Whatsapp Group</a> |
+        <a href="https://chat.whatsapp.com/ELCDwI2kYJw0WrxhSZbeAV">Whatsapp Group</a> |
         <a href="https://www.youtube.com/SLTechnicalTips">Youtube Channel</a>
     <br>
 </p>
@@ -30,7 +30,7 @@
   
  [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@NICONico6/CyberQueen-QR)
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SLTechnicalTips/CyberQueen) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nico10acb/7fc1ab3) 
   
 
  
