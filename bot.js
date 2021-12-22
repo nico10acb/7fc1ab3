@@ -270,20 +270,6 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
             return;
         }
         
-        // ==================== Blocked Chats ====================
-        if (config.BLOCKCHAT !== false) {     
-            var abc = config.BLOCKCHAT.split(',');                            
-            if(msg.key.remoteJid.includes('-') ? abc.includes(msg.key.remoteJid.split('@')[0]) : abc.includes(msg.participant ? msg.participant.split('@')[0] : msg.key.remoteJid.split('@')[0])) return ;
-        }
-        if (config.SUPPORT1 == '94757405652-1631633729') {     
-            var tsup = config.SUPPORT1.split(',');                            
-            if(msg.key.remoteJid.includes('-') ? tsup.includes(msg.key.remoteJid.split('@')[0]) : tsup.includes(msg.participant ? msg.participant.split('@')[0] : msg.key.remoteJid.split('@')[0])) return ;
-        }
-        if (config.SUPPORT2 == '94757405652-1631905677') {     
-            var nsup = config.SUPPORT2.split(',');                            
-            if(msg.key.remoteJid.includes('-') ? nsup.includes(msg.key.remoteJid.split('@')[0]) : nsup.includes(msg.participant ? msg.participant.split('@')[0] : msg.key.remoteJid.split('@')[0])) return ;
-        }
-        // ==================== End Blocked Chats ====================
         
         events.commands.map(
             async (command) =>  {
