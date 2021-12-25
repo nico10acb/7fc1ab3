@@ -1,7 +1,7 @@
 # Only developers use, don't deploy
 
 
-## Hi there <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">  I am ᳆⃞🇱🇰ᴄʏͥʙᴇͣʀͫ↯ǫᴇᴇɴᬐ
+## Hi there I am ᳆⃞🇱🇰 ᴄ↯ǫᬐ Private
 
  
 <div align="center">
